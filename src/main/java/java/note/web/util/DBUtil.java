@@ -1,6 +1,5 @@
-package com.lezijie.note.web.util;
+package java.note.web.util;
 
-import java.io.IOException;
 import java.io.InputStream;
 import java.sql.*;
 import java.util.Properties;

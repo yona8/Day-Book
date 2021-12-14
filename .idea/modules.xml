@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/DayBook.iml" filepath="$PROJECT_DIR$/.idea/DayBook.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/main/resourse/DayBook.iml" filepath="$PROJECT_DIR$/src/main/resourse/DayBook.iml" />
     </modules>
   </component>
 </project>
